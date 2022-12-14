@@ -1,13 +1,11 @@
 # PROJECT ON HOTEL MANAGEMENT USING PYTHON AND MYSQL
+  
+##his python project on Hotel Management system provides Facilities such as:
 
-
-DBMS : MYSQL 
-HOST: LOCAL HOST 
-USER:ROOT 
-PASSWORD :ROOT 
-DATABSE : HOTEL 
-TABLE STRUCTURE : AS GIVEN BELOW  
-
-![image](https://user-images.githubusercontent.com/101282659/207477911-de39bf2f-93c5-457a-a322-637fe8d37a28.png)
+###Provides the searching facilities based on various factors such as room type, restaurant menu etc.
+###Tracks all information of customers
+###calculates the Laundary Bill, Room Bill etc.
+###Shows information of customer check-in and check-out etc.
+ 
 
 
