@@ -8,4 +8,6 @@ PASSWORD :ROOT
 DATABSE : HOTEL 
 TABLE STRUCTURE : AS GIVEN BELOW  
 
+![image](https://user-images.githubusercontent.com/101282659/207477911-de39bf2f-93c5-457a-a322-637fe8d37a28.png)
+
 
